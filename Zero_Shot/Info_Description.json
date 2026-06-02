@@ -1,48 +1,50 @@
- {
-"index": 1,
-"image_url": "https://cdn.jsdelivr.net/gh/AhuRanger1027/Stamp_Ink_Sequence@main/Zero_Shot/1.jpg",
-"ink_type": "中性笔",
-"stamp_type": "水性印油",
-"conclusion": "先朱后墨",
-"reasoning": "墨迹浅淡且内部夹杂明显的红色，说明墨迹没有很好的与纸张接触；墨迹的深浅分布不均匀，断断续续；墨迹边缘不清晰，有朱印渗入的痕迹；综合以上三点，判断是朱印先墨迹后，朱印改变了纸张表面的性质，导致墨迹难以附着。"
-},
- {
-"index": 2,
-"image_url": "https://cdn.jsdelivr.net/gh/AhuRanger1027/Stamp_Ink_Sequence@main/Zero_Shot/2.jpg",
-"ink_type": "中性笔",
-"stamp_type": "水性印油",
-"conclusion": "先墨后朱",
-"reasoning": "墨迹深重且内部几乎没有红色，说明墨迹与纸张很好地接触；墨迹深浅分布均匀，基本连城一片；墨迹的边缘清晰且明显，没有被朱印侵入的痕迹；综合以上三点，判断是先墨迹后朱印。"
-},
- {
-"index": 3,
-"image_url": "https://cdn.jsdelivr.net/gh/AhuRanger1027/Stamp_Ink_Sequence@main/Zero_Shot/3.jpg",
-"ink_type": "中性笔",
-"stamp_type": "水性印油",
-"conclusion": "先朱后墨",
-"reasoning": "墨迹浅淡且内部夹杂明显的红色，说明墨迹没有很好的与纸张接触；墨迹边缘不清晰，有些深入比划内部的纸张纤维完全为红色，说明朱印先晕染了该纤维；综合以上两点，判断是朱印先墨迹后。"
-},
- {
-"index": 4,
-"image_url": "https://cdn.jsdelivr.net/gh/AhuRanger1027/Stamp_Ink_Sequence@main/Zero_Shot/4.jpg",
-"ink_type": "中性笔",
-"stamp_type": "水性印油",
-"conclusion": "先墨后朱",
-"reasoning": "墨迹颜色深黑，具有良好且清晰的边缘；内部几乎没有看到朱印的红色，边缘也没有看到朱印侵入比划内部；墨迹深浅均匀，内部有小部分纤维是白色，没有被朱印浸染；综合以上三点，判断是先墨迹后朱印。"
-},
- {
-"index": 5,
-"image_url": "https://cdn.jsdelivr.net/gh/AhuRanger1027/Stamp_Ink_Sequence@main/Zero_Shot/5.jpg",
-"ink_type": "油性笔",
-"stamp_type": "水性印油",
-"conclusion": "先墨后朱",
-"reasoning": "墨迹颜色深黑，边缘较为清晰；内部能看到朱印的红色，但是不明显，只有很暗的红色；纤维边缘有艳黄色异色残留，是朱印没有渗透浸入纤维再表面风干导致的，这是关键判据；结合以上三点，判断是先墨迹后朱印。"
-},
- {
-"index": 6,
-"image_url": "https://cdn.jsdelivr.net/gh/AhuRanger1027/Stamp_Ink_Sequence@main/Zero_Shot/6.jpg",
-"ink_type": "油性笔",
-"stamp_type": "水性印油",
-"conclusion": "先朱后墨",
-"reasoning": "墨迹浅淡且边缘不清晰，有些深入比划内部的纸张纤维完全为红色，说明墨迹没有很好的与纸张接触；笔画内部墨迹聚团形成黑色斑块，有些区域甚至是完全红色；这发生于当水性印油先浸润了纸张之后，导致油性笔无法有效在纸张上晕染，说明是朱印先墨迹后。"
-}
+[
+  {
+    "index": 1,
+    "image_url": "https://cdn.jsdelivr.net/gh/AhuRanger1027/Stamp_Ink_Sequence@main/Zero_Shot/1.jpg",
+    "ink_type": "中性笔",
+    "stamp_type": "水性印油",
+    "conclusion": "先朱后墨",
+    "reasoning": "墨迹浅淡且内部夹杂明显的红色，说明墨迹没有很好的与纸张接触；墨迹的深浅分布不均匀，断断续续；墨迹边缘不清晰，有朱印渗入的痕迹；综合以上三点，判断是朱印先墨迹后，朱印改变了纸张表面的性质，导致墨迹难以附着。"
+  },
+  {
+    "index": 2,
+    "image_url": "https://cdn.jsdelivr.net/gh/AhuRanger1027/Stamp_Ink_Sequence@main/Zero_Shot/2.jpg",
+    "ink_type": "中性笔",
+    "stamp_type": "水性印油",
+    "conclusion": "先墨后朱",
+    "reasoning": "墨迹深重且内部几乎没有红色，说明墨迹与纸张很好地接触；墨迹深浅分布均匀，基本连城一片；墨迹的边缘清晰且明显，没有被朱印侵入的痕迹；综合以上三点，判断是先墨迹后朱印。"
+  },
+  {
+    "index": 3,
+    "image_url": "https://cdn.jsdelivr.net/gh/AhuRanger1027/Stamp_Ink_Sequence@main/Zero_Shot/3.jpg",
+    "ink_type": "中性笔",
+    "stamp_type": "水性印油",
+    "conclusion": "先朱后墨",
+    "reasoning": "墨迹浅淡且内部夹杂明显的红色，说明墨迹没有很好的与纸张接触；墨迹边缘不清晰，有些深入比划内部的纸张纤维完全为红色，说明朱印先晕染了该纤维；综合以上两点，判断是朱印先墨迹后。"
+  },
+  {
+    "index": 4,
+    "image_url": "https://cdn.jsdelivr.net/gh/AhuRanger1027/Stamp_Ink_Sequence@main/Zero_Shot/4.jpg",
+    "ink_type": "中性笔",
+    "stamp_type": "水性印油",
+    "conclusion": "先墨后朱",
+    "reasoning": "墨迹颜色深黑，具有良好且清晰的边缘；内部几乎没有看到朱印的红色，边缘也没有看到朱印侵入比划内部；墨迹深浅均匀，内部有小部分纤维是白色，没有被朱印浸染；综合以上三点，判断是先墨迹后朱印。"
+  },
+  {
+    "index": 5,
+    "image_url": "https://cdn.jsdelivr.net/gh/AhuRanger1027/Stamp_Ink_Sequence@main/Zero_Shot/5.jpg",
+    "ink_type": "油性笔",
+    "stamp_type": "水性印油",
+    "conclusion": "先墨后朱",
+    "reasoning": "墨迹颜色深黑，边缘较为清晰；内部能看到朱印的红色，但是不明显，只有很暗的红色；纤维边缘有艳黄色异色残留，是朱印没有渗透浸入纤维再表面风干导致的，这是关键判据；结合以上三点，判断是先墨迹后朱印。"
+  },
+  {
+    "index": 6,
+    "image_url": "https://cdn.jsdelivr.net/gh/AhuRanger1027/Stamp_Ink_Sequence@main/Zero_Shot/6.jpg",
+    "ink_type": "油性笔",
+    "stamp_type": "水性印油",
+    "conclusion": "先朱后墨",
+    "reasoning": "墨迹浅淡且边缘不清晰，有些深入比划内部的纸张纤维完全为红色，说明墨迹没有很好的与纸张接触；笔画内部墨迹聚团形成黑色斑块，有些区域甚至是完全红色；这发生于当水性印油先浸润了纸张之后，导致油性笔无法有效在纸张上晕染，说明是朱印先墨迹后。"
+  }
+]
